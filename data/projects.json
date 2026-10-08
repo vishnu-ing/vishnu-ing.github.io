@@ -361,28 +361,6 @@
       }
     },
     {
-      "title": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "longDescription": "Generated GitHub contribution history",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "color": "#FFE66D",
-      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "github": "https://github.com/vishnu-ing/contribution-history",
-      "demo": "https://github.com/vishnu-ing/contribution-history",
-      "links": {
-        "github": "https://github.com/vishnu-ing/contribution-history",
-        "demo": "https://github.com/vishnu-ing/contribution-history",
-        "live": "https://github.com/vishnu-ing/contribution-history"
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
-      }
-    },
-    {
       "title": "sql-datawarehouse-project",
       "description": "Modern web application demonstrating clean code principles",
       "longDescription": "Modern web application demonstrating clean code principles",
