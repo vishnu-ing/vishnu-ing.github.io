@@ -3,18 +3,18 @@
   "greeting": "Hi, I'm",
   "name": "VISHNU KUMAR",
   "title": "Full Stack Software Engineer",
-  "summary": "Full Stack Software Engineer with 1+ years of experience specializing in Java, Python, C++.",
+  "summary": "Full Stack Software Engineer with 6+ years of experience specializing in React, Angular, Node.js and Java/Spring Boot.",
   "avatarUrl": "/avatar.png",
   "tagline": "Full Stack Software Engineer",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "text": "1+ Years Experience",
+      "text": "6+ Years Experience",
       "color": "#FF6B6B"
     },
     {
       "icon": "fas fa-project-diagram",
-      "text": "19+ Projects Completed",
+      "text": "18+ Projects Completed",
       "color": "#4ECDC4"
     },
     {
