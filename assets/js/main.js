@@ -213,22 +213,32 @@ async function loadExperience() {
             timelineContainer.innerHTML = data.experiences.map(exp => `
                 <div class="timeline-item">
                     <div class="timeline-empty"></div>
-                    <div class="timeline-icon" style="background: ${exp.color}">
-                        <i class="${exp.icon}"></i>
+                    <div class="timeline-icon" style="background: ${exp.color || 'var(--gradient-primary)'}">
+                        <i class="${exp.icon || 'fas fa-briefcase'}"></i>
                     </div>
                     <div class="timeline-content">
                         <div class="experience-header">
-                            <h3 class="experience-title">${exp.title}</h3>
-                            <p class="experience-company">
-                                ${exp.company} ${exp.location ? `• ${exp.location}` : ''}
-                            </p>
+                            <div class="experience-brand">
+                                <div class="company-logo${exp.logo ? '' : ' logo-fallback'}">
+                                    ${exp.logo ? `
+                                        <img src="${exp.logo}" alt="${exp.company} logo" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('logo-fallback'); this.remove();">
+                                    ` : ''}
+                                    <span aria-hidden="true">${exp.company.split(' ').filter(Boolean).map(word => word[0]).join('').slice(0, 2)}</span>
+                                </div>
+                                <div>
+                                    <h3 class="experience-title">${exp.title}</h3>
+                                    <p class="experience-company">
+                                        ${exp.company} ${exp.location ? `• ${exp.location}` : ''}
+                                    </p>
+                                </div>
+                            </div>
                             <p class="experience-period">
                                 <i class="fas fa-calendar-alt"></i>
                                 ${exp.period}
                                 ${exp.type ? `<span class="experience-type">• ${exp.type}</span>` : ''}
                             </p>
                         </div>
-                        <p class="experience-description">${exp.description}</p>
+                        ${exp.description ? `<p class="experience-description">${exp.description}</p>` : ''}
                         ${exp.responsibilities ? `
                             <ul class="experience-responsibilities">
                                 ${exp.responsibilities.map(resp => `<li>${resp}</li>`).join('')}
@@ -297,8 +307,13 @@ async function loadProjects() {
         if (projectsGrid && data.projects) {
             projectsGrid.innerHTML = data.projects.map(project => `
                 <div class="project-card">
-                    <div class="project-icon" style="background: ${project.color}">
-                        <i class="${project.icon}"></i>
+                    <div class="project-visual${project.image ? ' has-image' : ''}">
+                        ${project.image ? `
+                            <img class="project-thumb" src="${project.image}" alt="${project.title} thumbnail" loading="lazy" decoding="async" onerror="this.parentElement.classList.remove('has-image'); this.remove();">
+                        ` : ''}
+                        <div class="project-icon" style="background: ${project.color}">
+                            <i class="${project.icon}"></i>
+                        </div>
                     </div>
                     <div class="project-header">
                         <h3 class="project-title">${project.title}</h3>
@@ -383,12 +398,21 @@ async function loadEducation() {
         if (certificationsGrid && data.certifications) {
             certificationsGrid.innerHTML = data.certifications.map(cert => `
                 <div class="certification-card">
-                    <div class="certification-icon" style="color: ${cert.color}">
-                        <i class="${cert.icon}"></i>
-                    </div>
+                    ${cert.badge ? `
+                        <img class="certification-badge" src="${cert.badge}" alt="${cert.title} badge" loading="lazy" decoding="async">
+                    ` : `
+                        <div class="certification-icon" style="color: ${cert.color}">
+                            <i class="${cert.icon}"></i>
+                        </div>
+                    `}
                     <h4 class="certification-title">${cert.title}</h4>
                     <p class="certification-issuer">${cert.issuer}</p>
                     <p class="certification-date">${cert.date}</p>
+                    ${cert.url ? `
+                        <a href="${cert.url}" target="_blank" rel="noopener noreferrer" class="certification-link">
+                            Verify <i class="fas fa-arrow-up-right-from-square"></i>
+                        </a>
+                    ` : ''}
                 </div>
             `).join('');
         }

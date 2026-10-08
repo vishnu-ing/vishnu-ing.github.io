@@ -1,7 +1,7 @@
 {
   "_instructions": "Add your education and certifications here.",
   "sectionTitle": "Education & Certifications",
-  "certificationsTitle": "Certifications",
+  "certificationsTitle": "Certifications & Awards",
   "education": [
     {
       "degree": "Master of Science",
@@ -9,7 +9,9 @@
       "institution": "University at Buffalo, State University of New York (SUNY)",
       "period": "Jul 2024 – Jun 2025",
       "details": "GPA: 4.0/4.0",
-      "description": "GPA: 4.0/4.0"
+      "description": "GPA: 4.0/4.0",
+      "icon": "fas fa-graduation-cap",
+      "color": "#B19CD9"
     },
     {
       "degree": "Bachelor of Engineering",
@@ -17,8 +19,62 @@
       "institution": "Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India",
       "period": "Aug 2015 – Apr 2019",
       "details": "",
-      "description": ""
+      "description": "",
+      "icon": "fas fa-microchip",
+      "color": "#4ECDC4"
     }
   ],
-  "certifications": []
+  "certifications": [
+    {
+      "title": "AWS Certified Data Engineer – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "badge": "assets/images/certs/aws-data-engineer.png",
+      "icon": "fab fa-aws",
+      "color": "#FF9900",
+      "url": "https://www.credly.com/badges/f42ceef1-91b4-4af3-acda-124766242d70"
+    },
+    {
+      "title": "AWS Certified Solutions Architect – Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023 · Expired",
+      "badge": "assets/images/certs/aws-solutions-architect.png",
+      "icon": "fab fa-aws",
+      "color": "#FF9900",
+      "url": "https://www.credly.com/badges/e5ba4d04-1c03-4083-b302-9a333f105dc4"
+    },
+    {
+      "title": "Snowflake – Data Warehousing Workshop",
+      "issuer": "Snowflake",
+      "date": "2024",
+      "icon": "fas fa-snowflake",
+      "color": "#29B5E8",
+      "url": "https://achieve.snowflake.com/deb625a0-411a-4d9c-a1f0-7f72fb122e75#acc.wFYqZ5r7"
+    },
+    {
+      "title": "Tableau – Connect to and Transform Data",
+      "issuer": "Tableau",
+      "date": "2024",
+      "badge": "assets/images/certs/tableau-transform.png",
+      "icon": "fas fa-chart-bar",
+      "color": "#E97627",
+      "url": "https://www.credly.com/badges/6fc17ca5-661d-4593-8f47-8711dc24d659/public_url"
+    },
+    {
+      "title": "Tableau – Create Views and Dashboards",
+      "issuer": "Tableau",
+      "date": "2024",
+      "badge": "assets/images/certs/tableau-dashboards.png",
+      "icon": "fas fa-chart-bar",
+      "color": "#E97627",
+      "url": "https://www.credly.com/badges/b55846f4-7a23-4a72-a884-68fae744f805/public_url"
+    },
+    {
+      "title": "Outstanding Performance for Contribution to the Organization",
+      "issuer": "Ideas2IT Technology Services",
+      "date": "Awarded 2 consecutive years",
+      "icon": "fas fa-trophy",
+      "color": "#FFE66D"
+    }
+  ]
 }

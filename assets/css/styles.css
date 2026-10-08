@@ -668,6 +668,54 @@ body {
     margin-bottom: var(--spacing-md);
 }
 
+.experience-brand {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    margin-bottom: var(--spacing-xs);
+}
+
+.company-logo {
+    width: 56px;
+    height: 56px;
+    border-radius: var(--radius-md);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.95);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+}
+
+.company-logo img {
+    width: 76%;
+    height: 76%;
+    object-fit: contain;
+    display: block;
+}
+
+.company-logo span {
+    display: none;
+    font-weight: 800;
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.5px;
+}
+
+.company-logo.logo-fallback {
+    background: var(--gradient-primary);
+}
+
+.company-logo.logo-fallback span {
+    display: inline;
+    color: var(--color-text-primary);
+}
+
+.experience-brand .experience-company {
+    margin-bottom: 0;
+}
+
 .experience-title {
     font-size: var(--font-size-lg);
     font-weight: 700;
@@ -843,6 +891,51 @@ body {
     color: #fff;
     margin-bottom: var(--spacing-md);
     background: var(--gradient-primary);
+}
+
+.project-visual {
+    position: relative;
+    margin-bottom: var(--spacing-md);
+}
+
+.project-visual.has-image {
+    aspect-ratio: 16 / 9;
+    margin: calc(var(--spacing-lg) * -1) calc(var(--spacing-lg) * -1) var(--spacing-md);
+    padding: var(--spacing-sm);
+    overflow: hidden;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    background: var(--color-bg-darker);
+}
+
+.project-thumb {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform var(--transition-slow);
+}
+
+.project-card:hover .project-thumb {
+    transform: scale(1.04);
+}
+
+.project-visual.has-image .project-icon {
+    position: relative;
+    z-index: 1;
+    width: 44px;
+    height: 44px;
+    margin-bottom: 0;
+    font-size: var(--font-size-md);
+    box-shadow: var(--shadow-md);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .project-card:hover .project-thumb {
+        transform: none;
+    }
 }
 
 .project-header {
@@ -1054,6 +1147,33 @@ body {
 .certification-date {
     font-size: var(--font-size-xs);
     color: var(--color-text-muted);
+}
+
+.certification-badge {
+    width: 96px;
+    height: 96px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto var(--spacing-sm);
+}
+
+.certification-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: var(--spacing-sm);
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+    color: var(--color-accent-2);
+    text-decoration: none;
+}
+
+.certification-link:hover {
+    text-decoration: underline;
+}
+
+.certification-link i {
+    font-size: 0.7em;
 }
 
 /* ============================================
@@ -1467,5 +1587,14 @@ body {
 
     .project-stats {
         grid-template-columns: 1fr;
+    }
+
+    .experience-brand {
+        align-items: flex-start;
+    }
+
+    .company-logo {
+        width: 46px;
+        height: 46px;
     }
 }
