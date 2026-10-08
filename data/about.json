@@ -1,0 +1,41 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "Full Stack Software Engineer with 6+ years of experience building scalable web applications and backend services using Java, Spring Boot, React, Angular, TypeScript, Node.js, Express, REST APIs, and AWS.",
+    "Strong in full-stack development, secure integrations, cloud deployment, CI/CD, Docker, and Kubernetes, with recent experience applying AI-assisted development practices.",
+    "Proven ability to solve complex technical problems, collaborate across teams, and deliver reliable software that improves user experience and business operations."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "19+",
+      "label": "Projects Completed",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-briefcase",
+      "value": "1+",
+      "label": "Years Experience",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "79+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-award",
+      "value": "0+",
+      "label": "Certifications",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

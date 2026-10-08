@@ -1,0 +1,24 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "school": "University at Buffalo, State University of New York (SUNY)",
+      "institution": "University at Buffalo, State University of New York (SUNY)",
+      "period": "Jul 2024 – Jun 2025",
+      "details": "GPA: 4.0/4.0",
+      "description": "GPA: 4.0/4.0"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "school": "Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India",
+      "institution": "Madras Institute of Technology, Anna University, Chennai, Tamil Nadu, India",
+      "period": "Aug 2015 – Apr 2019",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": []
+}

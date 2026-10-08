@@ -1,0 +1,113 @@
+{
+  "_instructions": "Organize your skills with vibrant colors.",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Java",
+        "Python",
+        "C++",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "color": "#4ECDC4",
+      "skills": [
+        "Spring Boot",
+        "FastAPI",
+        "Node.js",
+        "Express.js",
+        "React",
+        "Angular",
+        "Redux Toolkit",
+        "React Context API",
+        "RxJS",
+        "Angular Material",
+        "Next.js",
+        "Ionic"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "color": "#FFE66D",
+      "skills": [
+        "MySQL",
+        "MongoDB",
+        "AWS",
+        "AWS Lambda",
+        "Amazon S3",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "CircleCI",
+        "OAuth 2.0",
+        "JWT",
+        "SSO",
+        "Postman",
+        "Git",
+        "GitHub",
+        "Bitbucket",
+        "Apache Hop",
+        "Power BI"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "color": "#A8DADC",
+      "skills": [
+        "Generative AI",
+        "Large Language Models (LLMs)",
+        "Retrieval-Augmented Generation (RAG)",
+        "Agentic AI",
+        "OpenAI APIs",
+        "Claude AI",
+        "LangChain",
+        "LangGraph",
+        "Prompt Engineering",
+        "GitHub Copilot",
+        "RESTful APIs",
+        "API Integration",
+        "Backend Services",
+        "Business Logic",
+        "HTML5",
+        "CSS3",
+        "Responsive UI Development",
+        "Data Modeling",
+        "Query Optimization",
+        "Relational Database Integration",
+        "CI/CD",
+        "Cloud Deployment",
+        "Containerization",
+        "Authentication",
+        "Authorization",
+        "API Security",
+        "Secure Integrations",
+        "Full Stack Development",
+        "Scalable Application Architecture",
+        "Distributed Systems",
+        "Debugging",
+        "Performance Optimization",
+        "MTTR",
+        "Code Reviews",
+        "API Testing",
+        "Integration Testing",
+        "Agile",
+        "Scrum",
+        "Sprint Planning",
+        "Requirements Analysis",
+        "Cross-Functional Collaboration",
+        "Release Management"
+      ]
+    }
+  ]
+}

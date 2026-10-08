@@ -1,0 +1,79 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Full Stack Developer",
+      "company": "First Citizens Bank through BeaconFire",
+      "period": "November 2025 – Present",
+      "location": "",
+      "description": "Modernized more than 10 application pages and shared UI components using React, TypeScript, Node.js and MongoDB to replace legacy SVB branding with the First Citizens experience and support scheduled releases for product and engineering stakeholders. Strengthened identity-related repositories and SSO workflows by coordinating security findings, authentication issues and cross-team production dependencies to improve release stability for application, security and platform teams. Resolved requirements and product-discovery gaps involving legacy URLs, content changes and component ownership to reduce late-stage ambiguity and improve release readiness across engineering and product teams. Delivered approximately 18 story points in a two-week sprint against a planned capacity of 10 by managing competing priorities and cross-team dependencies to meet release and code-freeze commitments. Integrated Java and Spring Boot backend services with React-based frontend workflows to support enterprise application functionality and maintain clear separation between presentation, business and integration layers. Secured authentication flows with JWT-based access tokens and OAuth 2.0 authorization patterns to protect API resources, standardize session handling and support enterprise identity requirements. Improved production support by analyzing application logs, monitoring signals and incident patterns to reduce mean time to resolution (MTTR) for authentication and release-related incidents and strengthen operational reliability for application owners. Containerized application workloads with Docker and Kubernetes and supported AWS-based deployment patterns to standardize runtime environments and improve consistency across development and production workflows. Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices.",
+      "responsibilities": [
+        "Modernized more than 10 application pages and shared UI components using React, TypeScript, Node",
+        "js and MongoDB to replace legacy SVB branding with the First Citizens experience and support scheduled releases for product and engineering stakeholders",
+        "Strengthened identity-related repositories and SSO workflows by coordinating security findings, authentication issues and cross-team production dependencies to improve release stability for application, security and platform teams",
+        "Resolved requirements and product-discovery gaps involving legacy URLs, content changes and component ownership to reduce late-stage ambiguity and improve release readiness across engineering and product teams",
+        "Delivered approximately 18 story points in a two-week sprint against a planned capacity of 10 by managing competing priorities and cross-team dependencies to meet release and code-freeze commitments",
+        "Integrated Java and Spring Boot backend services with React-based frontend workflows to support enterprise application functionality and maintain clear separation between presentation, business and integration layers",
+        "Secured authentication flows with JWT-based access tokens and OAuth 2",
+        "0 authorization patterns to protect API resources, standardize session handling and support enterprise identity requirements",
+        "Improved production support by analyzing application logs, monitoring signals and incident patterns to reduce mean time to resolution (MTTR) for authentication and release-related incidents and strengthen operational reliability for application owners",
+        "Containerized application workloads with Docker and Kubernetes and supported AWS-based deployment patterns to standardize runtime environments and improve consistency across development and production workflows",
+        "Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices"
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Find Me LLC",
+      "period": "August 2025 – November 2025",
+      "location": "",
+      "description": "Engineered full-stack features with Next.js, React, TypeScript, Node.js, Express and MongoDB to support application workflows through reusable frontend components and REST-based backend services. Reworked client and server state management with Redux Toolkit to provide predictable data flows across Next.js and React applications and simplify application behavior for development teams. Hardened authentication by implementing HTTP-only cookies and token refresh workflows with Next.js SSR to improve session security and application performance. Optimized application delivery through server-side rendering, static generation, lazy loading and structured sitemaps to improve initial page performance and strengthen SEO-oriented user experiences. Built responsive mobile-first interfaces with reusable carousels, tabs, modals and dynamic forms to create consistent user experiences across application workflows. Secured API communication with JWT-based authentication and Axios interceptors to manage authorization headers consistently across protected requests.",
+      "responsibilities": [
+        "Engineered full-stack features with Next",
+        "js, React, TypeScript, Node",
+        "js, Express and MongoDB to support application workflows through reusable frontend components and REST-based backend services",
+        "Reworked client and server state management with Redux Toolkit to provide predictable data flows across Next",
+        "js and React applications and simplify application behavior for development teams",
+        "Hardened authentication by implementing HTTP-only cookies and token refresh workflows with Next",
+        "js SSR to improve session security and application performance",
+        "Optimized application delivery through server-side rendering, static generation, lazy loading and structured sitemaps to improve initial page performance and strengthen SEO-oriented user experiences",
+        "Built responsive mobile-first interfaces with reusable carousels, tabs, modals and dynamic forms to create consistent user experiences across application workflows",
+        "Secured API communication with JWT-based authentication and Axios interceptors to manage authorization headers consistently across protected requests"
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Rupp Pfalzgraf",
+      "period": "January 2025 – June 2025",
+      "location": "",
+      "description": "Developed an Angular and TypeScript performance dashboard around 4 core KPIs including Revenue per Customer, Total Compensation, Billable Hours and Realization Rate to provide C-suite leadership with a centralized view of business performance. Digitized performance review workflows using Angular Material, RxJS and REST APIs to replace fragmented manual processes with centralized dashboards and simplify review activities for managers and administrative stakeholders. Structured reusable Angular components and RxJS data flows to standardize API-driven updates and improve frontend maintainability across reporting and performance-management workflows. Integrated RESTful backend services with Angular dashboards to support consistent retrieval and presentation of business data for leadership reporting and internal application workflows. Refined responsive interfaces using TypeScript, JavaScript, HTML5 and CSS3 to improve navigation and usability across professional-services applications while maintaining reusable frontend patterns. Validated frontend and API integrations with Postman, Git-based development and defect analysis to identify integration issues earlier and improve release readiness for business stakeholders. Coordinated requirements, code reviews and Agile delivery activities with product and development teams to align dashboard enhancements with stakeholder expectations throughout the engagement.",
+      "responsibilities": [
+        "Developed an Angular and TypeScript performance dashboard around 4 core KPIs including Revenue per Customer, Total Compensation, Billable Hours and Realization Rate to provide C-suite leadership with a centralized view of business performance",
+        "Digitized performance review workflows using Angular Material, RxJS and REST APIs to replace fragmented manual processes with centralized dashboards and simplify review activities for managers and administrative stakeholders",
+        "Structured reusable Angular components and RxJS data flows to standardize API-driven updates and improve frontend maintainability across reporting and performance-management workflows",
+        "Integrated RESTful backend services with Angular dashboards to support consistent retrieval and presentation of business data for leadership reporting and internal application workflows",
+        "Refined responsive interfaces using TypeScript, JavaScript, HTML5 and CSS3 to improve navigation and usability across professional-services applications while maintaining reusable frontend patterns",
+        "Validated frontend and API integrations with Postman, Git-based development and defect analysis to identify integration issues earlier and improve release readiness for business stakeholders",
+        "Coordinated requirements, code reviews and Agile delivery activities with product and development teams to align dashboard enhancements with stakeholder expectations throughout the engagement"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Ideas2IT Technology Services",
+      "period": "June 2019 – May 2024",
+      "location": "",
+      "description": "Engineered a hybrid multi-brand application platform using Node.js, Express, MongoDB, React, TypeScript and Ionic to deliver web, Android and iOS applications from a shared codebase for 9 brands, reducing duplicated implementation across product teams. Centralized dynamic theming, content, assets and API integrations through React Context API and Redux Toolkit to create reusable application patterns and support consistent promotions and feature rollouts across 9 brands. Designed reusable Node.js and Express REST services to separate business logic from client applications and establish consistent API contracts for customer-facing features and third-party integrations. Automated development and production deployments through CircleCI and CI/CD pipelines to standardize release execution, reduce manual deployment effort and improve delivery reliability across application environments. Integrated geolocation, latitude/longitude-based search and service discovery workflows across 3 application platforms to support location-aware customer journeys and reusable search capabilities. Implemented appointment push notifications and coupons/rewards workflows to connect customer interactions with transactional services and engagement features while maintaining reusable business logic across supported brands. Earned an Outstanding Performance for Contribution to the Organization award for 2 consecutive years through consistent delivery of cross-platform engineering initiatives and product enhancements.",
+      "responsibilities": [
+        "Engineered a hybrid multi-brand application platform using Node",
+        "js, Express, MongoDB, React, TypeScript and Ionic to deliver web, Android and iOS applications from a shared codebase for 9 brands, reducing duplicated implementation across product teams",
+        "Centralized dynamic theming, content, assets and API integrations through React Context API and Redux Toolkit to create reusable application patterns and support consistent promotions and feature rollouts across 9 brands",
+        "Designed reusable Node",
+        "js and Express REST services to separate business logic from client applications and establish consistent API contracts for customer-facing features and third-party integrations",
+        "Automated development and production deployments through CircleCI and CI/CD pipelines to standardize release execution, reduce manual deployment effort and improve delivery reliability across application environments",
+        "Integrated geolocation, latitude/longitude-based search and service discovery workflows across 3 application platforms to support location-aware customer journeys and reusable search capabilities",
+        "Implemented appointment push notifications and coupons/rewards workflows to connect customer interactions with transactional services and engagement features while maintaining reusable business logic across supported brands",
+        "Earned an Outstanding Performance for Contribution to the Organization award for 2 consecutive years through consistent delivery of cross-platform engineering initiatives and product enhancements"
+      ]
+    }
+  ]
+}

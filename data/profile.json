@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "VISHNU KUMAR",
+    "title": "Full Stack Software Engineer",
+    "bio": "Full Stack Software Engineer with 6+ years of experience building scalable web applications and backend services using Java, Spring Boot, React, Angular, TypeScript, Node.js, Express, REST APIs, and AWS. Strong in full-stack development, secure integrations, cloud deployment, CI/CD, Docker, and Kubernetes, with recent experience applying AI-assisted development practices. Proven ability to solve complex technical problems, collaborate across teams, and deliver reliable software that improves user experience and business operations."
+  },
+  "contact": {
+    "email": "vishnu.rsvk@gmail.com",
+    "phone": "+1 (716) 247-3792",
+    "githubUsername": "vishnu-ing",
+    "linkedin": "https://www.linkedin.com/in/vishnu-kumar-rs/"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "VISHNU KUMAR - Portfolio",
+    "description": "Full Stack Software Engineer with 6+ years of experience building scalable web applications and backend services using Java, Spring Boot, React, Angular, TypeScript, Node.js, Express, REST APIs, and AWS. Strong in full-stack development, secure integrations, cloud deployment, CI/CD, Docker, and Kubernetes, with recent experience applying AI-assisted development practices. Proven ability to solve complex technical problems, collaborate across teams, and deliver reliable software that improves user experience and business operations."
+  }
+}

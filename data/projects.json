@@ -1,0 +1,479 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "Agentic AI",
+      "description": "Built an AI-powered Q&A agent using Python, Streamlit, Llama 3.2, DuckDuckGo API, ReActAgent and FunctionTool to perform real-time math operations and web searches through tool-enabled agent workflows.",
+      "longDescription": "Built an AI-powered Q&A agent using Python, Streamlit, Llama 3.2, DuckDuckGo API, ReActAgent and FunctionTool to perform real-time math operations and web searches through tool-enabled agent workflows.",
+      "category": "Web Development",
+      "technologies": [
+        "Python",
+        "Streamlit",
+        "Llama 3.2",
+        "DuckDuckGo API",
+        "ReActAgent",
+        "FunctionTool"
+      ],
+      "icon": "fas fa-globe",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Retail Business Data Warehouse",
+      "description": "Built an end-to-end retail data warehouse integrating 3+ years of transaction data through Apache Hop and SQL and delivered Power BI dashboards that reduced weekly sales reporting time from 4 hours to under 30 minutes.",
+      "longDescription": "Built an end-to-end retail data warehouse integrating 3+ years of transaction data through Apache Hop and SQL and delivered Power BI dashboards that reduced weekly sales reporting time from 4 hours to under 30 minutes.",
+      "category": "Software Development",
+      "technologies": [
+        "Oracle",
+        "Apache Hop",
+        "SQL",
+        "Power BI"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "backend",
+      "description": "This repository contains the backend code of Beacon Fire Group Project",
+      "longDescription": "This repository contains the backend code of Beacon Fire Group Project",
+      "category": "Software Development",
+      "technologies": [
+        "JavaScript"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/backend",
+      "demo": "https://github.com/vishnu-ing/backend",
+      "links": {
+        "github": "https://github.com/vishnu-ing/backend",
+        "demo": "https://github.com/vishnu-ing/backend",
+        "live": "https://github.com/vishnu-ing/backend"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "react-frontend",
+      "description": "React Frontend for Employee side of HRMS",
+      "longDescription": "React Frontend for Employee side of HRMS",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/react-frontend",
+      "demo": "https://github.com/vishnu-ing/react-frontend",
+      "links": {
+        "github": "https://github.com/vishnu-ing/react-frontend",
+        "demo": "https://github.com/vishnu-ing/react-frontend",
+        "live": "https://github.com/vishnu-ing/react-frontend"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "angular-frontend",
+      "description": "Angular Frontend for HR Login of the HRMS",
+      "longDescription": "Angular Frontend for HR Login of the HRMS",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/angular-frontend",
+      "demo": "https://github.com/vishnu-ing/angular-frontend",
+      "links": {
+        "github": "https://github.com/vishnu-ing/angular-frontend",
+        "demo": "https://github.com/vishnu-ing/angular-frontend",
+        "live": "https://github.com/vishnu-ing/angular-frontend"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "streamledger",
+      "description": "Personal project for exploring modern development practices",
+      "longDescription": "Personal project for exploring modern development practices",
+      "category": "Software Development",
+      "technologies": [
+        "Go",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/streamledger",
+      "demo": "https://github.com/vishnu-ing/streamledger",
+      "links": {
+        "github": "https://github.com/vishnu-ing/streamledger",
+        "demo": "https://github.com/vishnu-ing/streamledger",
+        "live": "https://github.com/vishnu-ing/streamledger"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "itinerary-planner",
+      "description": "Hands-on learning experience with modern frameworks",
+      "longDescription": "Hands-on learning experience with modern frameworks",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/itinerary-planner",
+      "demo": "https://github.com/vishnu-ing/itinerary-planner",
+      "links": {
+        "github": "https://github.com/vishnu-ing/itinerary-planner",
+        "demo": "https://github.com/vishnu-ing/itinerary-planner",
+        "live": "https://github.com/vishnu-ing/itinerary-planner"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "netcode-arena",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Software Development",
+      "technologies": [
+        "C#",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/netcode-arena",
+      "demo": "https://github.com/vishnu-ing/netcode-arena",
+      "links": {
+        "github": "https://github.com/vishnu-ing/netcode-arena",
+        "demo": "https://github.com/vishnu-ing/netcode-arena",
+        "live": "https://github.com/vishnu-ing/netcode-arena"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "bookstoreapp-distributed-application",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Software Development",
+      "technologies": [
+        "Java",
+        "JavaScript",
+        "Dockerfile",
+        "CSS"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/bookstoreapp-distributed-application",
+      "demo": "https://github.com/vishnu-ing/bookstoreapp-distributed-application",
+      "links": {
+        "github": "https://github.com/vishnu-ing/bookstoreapp-distributed-application",
+        "demo": "https://github.com/vishnu-ing/bookstoreapp-distributed-application",
+        "live": "https://github.com/vishnu-ing/bookstoreapp-distributed-application"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "description": "Practice repository for exploring advanced features",
+      "longDescription": "Practice repository for exploring advanced features",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Shell",
+        "Ruby"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "demo": "https://github.com/vishnu-ing/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+      "links": {
+        "github": "https://github.com/vishnu-ing/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+        "demo": "https://github.com/vishnu-ing/centralized-asset-management-system-with-compliance-self-audit-dashboard",
+        "live": "https://github.com/vishnu-ing/centralized-asset-management-system-with-compliance-self-audit-dashboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "spring-boot-microservices-banking-application",
+      "description": "Hands-on learning experience with modern frameworks",
+      "longDescription": "Hands-on learning experience with modern frameworks",
+      "category": "Software Development",
+      "technologies": [
+        "Java",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/spring-boot-microservices-banking-application",
+      "demo": "https://github.com/vishnu-ing/spring-boot-microservices-banking-application",
+      "links": {
+        "github": "https://github.com/vishnu-ing/spring-boot-microservices-banking-application",
+        "demo": "https://github.com/vishnu-ing/spring-boot-microservices-banking-application",
+        "live": "https://github.com/vishnu-ing/spring-boot-microservices-banking-application"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "JavaScript",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "demo": "https://github.com/vishnu-ing/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+      "links": {
+        "github": "https://github.com/vishnu-ing/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+        "demo": "https://github.com/vishnu-ing/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking",
+        "live": "https://github.com/vishnu-ing/advanced-full-stack-project-with-java-spring-boot-and-react-redux-online-banking"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "java_chat_system",
+      "description": "Educational project for mastering software architecture",
+      "longDescription": "Educational project for mastering software architecture",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/java_chat_system",
+      "demo": "https://github.com/vishnu-ing/java_chat_system",
+      "links": {
+        "github": "https://github.com/vishnu-ing/java_chat_system",
+        "demo": "https://github.com/vishnu-ing/java_chat_system",
+        "live": "https://github.com/vishnu-ing/java_chat_system"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "ecommerce-microservice-backend-app",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "XML",
+        "YAML",
+        "SQL",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/ecommerce-microservice-backend-app",
+      "demo": "https://github.com/vishnu-ing/ecommerce-microservice-backend-app",
+      "links": {
+        "github": "https://github.com/vishnu-ing/ecommerce-microservice-backend-app",
+        "demo": "https://github.com/vishnu-ing/ecommerce-microservice-backend-app",
+        "live": "https://github.com/vishnu-ing/ecommerce-microservice-backend-app"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "longDescription": "Generated GitHub contribution history",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/contribution-history",
+      "demo": "https://github.com/vishnu-ing/contribution-history",
+      "links": {
+        "github": "https://github.com/vishnu-ing/contribution-history",
+        "demo": "https://github.com/vishnu-ing/contribution-history",
+        "live": "https://github.com/vishnu-ing/contribution-history"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "sql-datawarehouse-project",
+      "description": "Modern web application demonstrating clean code principles",
+      "longDescription": "Modern web application demonstrating clean code principles",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/sql-datawarehouse-project",
+      "demo": "https://github.com/vishnu-ing/sql-datawarehouse-project",
+      "links": {
+        "github": "https://github.com/vishnu-ing/sql-datawarehouse-project",
+        "demo": "https://github.com/vishnu-ing/sql-datawarehouse-project",
+        "live": "https://github.com/vishnu-ing/sql-datawarehouse-project"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "MGS602-Demo-Al",
+      "description": "A simple implementation of OTT application",
+      "longDescription": "A simple implementation of OTT application",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/MGS602-Demo-Al",
+      "demo": "https://github.com/vishnu-ing/MGS602-Demo-Al",
+      "links": {
+        "github": "https://github.com/vishnu-ing/MGS602-Demo-Al",
+        "demo": "https://github.com/vishnu-ing/MGS602-Demo-Al",
+        "live": "https://github.com/vishnu-ing/MGS602-Demo-Al"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "portfolio",
+      "description": "GitHub repository: portfolio",
+      "longDescription": "GitHub repository: portfolio",
+      "category": "Data Science",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/portfolio",
+      "demo": "https://github.com/vishnu-ing/portfolio",
+      "links": {
+        "github": "https://github.com/vishnu-ing/portfolio",
+        "demo": "https://github.com/vishnu-ing/portfolio",
+        "live": "https://github.com/vishnu-ing/portfolio"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "performance-evaluation-dashboard",
+      "description": "GitHub repository: performance-evaluation-dashboard",
+      "longDescription": "GitHub repository: performance-evaluation-dashboard",
+      "category": "Development",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/vishnu-ing/performance-evaluation-dashboard",
+      "demo": "https://github.com/vishnu-ing/performance-evaluation-dashboard",
+      "links": {
+        "github": "https://github.com/vishnu-ing/performance-evaluation-dashboard",
+        "demo": "https://github.com/vishnu-ing/performance-evaluation-dashboard",
+        "live": "https://github.com/vishnu-ing/performance-evaluation-dashboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}
