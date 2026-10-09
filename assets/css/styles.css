@@ -303,17 +303,13 @@ body {
     max-width: 560px;
 }
 
-.hero-layout .hero-cta,
 .hero-layout .hero-social {
     justify-content: flex-start;
-}
-
-.hero-layout .hero-cta {
-    margin: var(--spacing-lg) 0;
-}
-
-.hero-layout .hero-social {
     margin: 0;
+}
+
+.hero-content > .hero-cta {
+    margin: var(--spacing-lg) 0 0;
 }
 
 .hero-visual {
@@ -1607,7 +1603,6 @@ body {
         margin: 0 auto var(--spacing-md);
     }
 
-    .hero-layout .hero-cta,
     .hero-layout .hero-social {
         justify-content: center;
     }
