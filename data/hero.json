@@ -2,10 +2,10 @@
   "_instructions": "Hero section content.",
   "greeting": "Hi, I'm",
   "name": "VISHNU KUMAR",
-  "title": "Full Stack Software Engineer",
-  "summary": "Full Stack Software Engineer with 6+ years of experience specializing in React, Angular, Node.js and Java/Spring Boot.",
+  "title": "Full Stack Software Engineer · AI-Powered Applications",
+  "summary": "Full Stack Software Engineer with 6+ years building web, mobile and microservice applications with React, Angular, Node.js and Java/Spring Boot, and integrating GenAI features like LLM agents, RAG and AI-assisted workflows into real products.",
   "avatarUrl": "/avatar.png",
-  "tagline": "Full Stack Software Engineer",
+  "tagline": "Full Stack • AI/GenAI • Microservices • AWS",
   "highlights": [
     {
       "icon": "fas fa-briefcase",

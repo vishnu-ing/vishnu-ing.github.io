@@ -6,7 +6,7 @@
       "title": "Agentic AI",
       "description": "Built an AI-powered Q&A agent using Python, Streamlit, Llama 3.2, DuckDuckGo API, ReActAgent and FunctionTool to perform real-time math operations and web searches through tool-enabled agent workflows.",
       "longDescription": "Built an AI-powered Q&A agent using Python, Streamlit, Llama 3.2, DuckDuckGo API, ReActAgent and FunctionTool to perform real-time math operations and web searches through tool-enabled agent workflows.",
-      "category": "Web Development",
+      "category": "AI / GenAI",
       "technologies": [
         "Python",
         "Streamlit",

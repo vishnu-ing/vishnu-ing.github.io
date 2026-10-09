@@ -442,6 +442,14 @@ body {
     animation: fadeInUp 0.6s ease 0.2s backwards;
 }
 
+.hero-title-part {
+    white-space: nowrap;
+}
+
+.hero-title-sep {
+    color: var(--color-accent-5);
+}
+
 .hero-tagline {
     font-size: var(--font-size-md);
     color: var(--color-text-muted);

@@ -10,14 +10,14 @@
       "description": "Full-stack engineering on First Citizens Bank applications through BeaconFire: React and TypeScript frontends, Java and Spring Boot services, and enterprise SSO.",
       "responsibilities": [
         "Modernized more than 10 application pages and shared UI components using React, TypeScript, Node.js and MongoDB to replace legacy SVB branding with the First Citizens experience and support scheduled releases for product and engineering stakeholders",
+        "Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices",
         "Strengthened identity-related repositories and SSO workflows by coordinating security findings, authentication issues and cross-team production dependencies to improve release stability for application, security and platform teams",
         "Resolved requirements and product-discovery gaps involving legacy URLs, content changes and component ownership to reduce late-stage ambiguity and improve release readiness across engineering and product teams",
         "Delivered approximately 18 story points in a two-week sprint against a planned capacity of 10 by managing competing priorities and cross-team dependencies to meet release and code-freeze commitments",
         "Integrated Java and Spring Boot backend services with React-based frontend workflows to support enterprise application functionality and maintain clear separation between presentation, business and integration layers",
         "Secured authentication flows with JWT-based access tokens and OAuth 2.0 authorization patterns to protect API resources, standardize session handling and support enterprise identity requirements",
         "Improved production support by analyzing application logs, monitoring signals and incident patterns to reduce mean time to resolution (MTTR) for authentication and release-related incidents and strengthen operational reliability for application owners",
-        "Containerized application workloads with Docker and Kubernetes and supported AWS-based deployment patterns to standardize runtime environments and improve consistency across development and production workflows",
-        "Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices"
+        "Containerized application workloads with Docker and Kubernetes and supported AWS-based deployment patterns to standardize runtime environments and improve consistency across development and production workflows"
       ],
       "icon": "fas fa-building-columns",
       "logo": "assets/images/logos/first-citizens.png"

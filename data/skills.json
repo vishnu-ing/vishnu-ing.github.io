@@ -17,6 +17,23 @@
       ]
     },
     {
+      "category": "AI & GenAI",
+      "icon": "fas fa-robot",
+      "color": "#B19CD9",
+      "skills": [
+        "Generative AI",
+        "Large Language Models (LLMs)",
+        "Retrieval-Augmented Generation (RAG)",
+        "Agentic AI",
+        "OpenAI APIs",
+        "Claude AI",
+        "LangChain",
+        "LangGraph",
+        "Prompt Engineering",
+        "GitHub Copilot"
+      ]
+    },
+    {
       "category": "Frameworks & Libraries",
       "icon": "fas fa-toolbox",
       "color": "#4ECDC4",
@@ -65,16 +82,6 @@
       "icon": "fas fa-laptop-code",
       "color": "#A8DADC",
       "skills": [
-        "Generative AI",
-        "Large Language Models (LLMs)",
-        "Retrieval-Augmented Generation (RAG)",
-        "Agentic AI",
-        "OpenAI APIs",
-        "Claude AI",
-        "LangChain",
-        "LangGraph",
-        "Prompt Engineering",
-        "GitHub Copilot",
         "RESTful APIs",
         "API Integration",
         "Backend Services",

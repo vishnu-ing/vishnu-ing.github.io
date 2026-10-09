@@ -101,7 +101,11 @@ async function loadHero() {
         // Set text content
         document.getElementById('hero-greeting').textContent = data.greeting;
         document.getElementById('hero-name').innerHTML = `${data.name.split(' ')[0]} <span>${data.name.split(' ').slice(1).join(' ')}</span>`;
-        document.getElementById('hero-title').textContent = data.title;
+        // Keep each " · "-separated part on one line so wrapping happens at the separator
+        document.getElementById('hero-title').innerHTML = data.title
+            .split(' · ')
+            .map(part => `<span class="hero-title-part">${part}</span>`)
+            .join('<span class="hero-title-sep"> · </span>');
         const taglineElement = document.getElementById('hero-tagline');
         if (data.tagline && data.tagline !== data.title) {
             taglineElement.textContent = data.tagline;
