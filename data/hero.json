@@ -2,10 +2,10 @@
   "_instructions": "Hero section content.",
   "greeting": "Hi, I'm",
   "name": "VISHNU KUMAR",
-  "title": "Full Stack Software Engineer · AI-Powered Applications",
-  "summary": "Full Stack Software Engineer with 6+ years building web, mobile and microservice applications with React, Angular, Node.js and Java/Spring Boot, and integrating GenAI features like LLM agents, RAG and AI-assisted workflows into real products.",
+  "title": "AI Software Engineer · Full Stack",
+  "summary": "AI Software Engineer building LLM-powered products, with 6+ years of full-stack engineering behind it. I design agents, RAG pipelines and tool-calling features on top of production-grade React, Node.js and Java/Spring Boot systems on AWS.",
   "avatarUrl": "/avatar.png",
-  "tagline": "Full Stack • AI/GenAI • Microservices • AWS",
+  "tagline": "LLM Apps • RAG • AI Agents • Full Stack • AWS",
   "highlights": [
     {
       "icon": "fas fa-briefcase",
@@ -18,8 +18,8 @@
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-code",
-      "text": "Technical Expertise",
+      "icon": "fas fa-robot",
+      "text": "LLM Apps · RAG · Agents",
       "color": "#FFE66D"
     }
   ],

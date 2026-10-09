@@ -3,9 +3,9 @@
   "sectionTitle": "About Me",
   "image": "assets/images/profile.jpg",
   "paragraphs": [
-    "Full Stack Software Engineer with 6+ years of experience building scalable web applications and backend services using Java, Spring Boot, React, Angular, TypeScript, Node.js, Express, REST APIs, and AWS.",
-    "Strong in full-stack development, secure integrations, cloud deployment, CI/CD, Docker, and Kubernetes, with hands-on experience building GenAI features using LLMs, agents and RAG, and applying AI-assisted development with GitHub Copilot.",
-    "Proven ability to solve complex technical problems, collaborate across teams, and deliver reliable software that improves user experience and business operations."
+    "AI Software Engineer focused on turning large language models into dependable product features: agents that call tools, retrieval-augmented generation over real data, and AI-assisted workflows that users can trust.",
+    "I come to AI engineering from 6+ years of full-stack work across React, Angular, Node.js, Java/Spring Boot and AWS, including a single codebase serving 9 brands on web, Android and iOS. That background is the part of AI engineering most demos skip: secure APIs, authentication, CI/CD, Docker/Kubernetes and the reliability work that gets an LLM feature into production.",
+    "I hold an M.S. in Management Information Systems (GPA 4.0) from the University at Buffalo with coursework in Applied AI and Predictive Analytics, and I build with OpenAI and Claude APIs, LangChain, LangGraph and Llama models."
   ],
   "statistics": [
     {
@@ -21,9 +21,9 @@
       "color": "#4ECDC4"
     },
     {
-      "icon": "fas fa-code",
-      "value": "79+",
-      "label": "Technologies",
+      "icon": "fas fa-robot",
+      "value": "10+",
+      "label": "AI / LLM Tools",
       "color": "#FFE66D"
     },
     {

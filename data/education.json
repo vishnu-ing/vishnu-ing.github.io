@@ -4,14 +4,17 @@
   "certificationsTitle": "Certifications & Awards",
   "education": [
     {
-      "degree": "Master of Science",
+      "degree": "Master of Science, Management Information Systems (STEM)",
       "school": "University at Buffalo, State University of New York (SUNY)",
       "institution": "University at Buffalo, State University of New York (SUNY)",
       "period": "Jul 2024 – Jun 2025",
       "details": "GPA: 4.0/4.0",
       "description": "GPA: 4.0/4.0",
       "icon": "fas fa-graduation-cap",
-      "color": "#B19CD9"
+      "color": "#B19CD9",
+      "achievements": [
+        "Coursework: Applied AI · Predictive Analytics · Cloud Data Warehousing & Data Engineering · Database Management Systems · Cloud Computing Security"
+      ]
     },
     {
       "degree": "Bachelor of Engineering",

@@ -7,7 +7,7 @@
       "company": "First Citizens Bank through BeaconFire",
       "period": "November 2025 – Present",
       "location": "",
-      "description": "Full-stack engineering on First Citizens Bank applications through BeaconFire: React and TypeScript frontends, Java and Spring Boot services, and enterprise SSO.",
+      "description": "Full-stack engineering on First Citizens Bank applications through BeaconFire: React and TypeScript frontends, Java and Spring Boot services and enterprise SSO, using AI-assisted development (GitHub Copilot) in daily delivery.",
       "responsibilities": [
         "Modernized more than 10 application pages and shared UI components using React, TypeScript, Node.js and MongoDB to replace legacy SVB branding with the First Citizens experience and support scheduled releases for product and engineering stakeholders",
         "Applied approved AI-assisted development tools such as GitHub Copilot to support code exploration, documentation and development productivity while keeping engineering workflows aligned with enterprise development practices",

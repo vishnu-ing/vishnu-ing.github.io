@@ -3,20 +3,6 @@
   "sectionTitle": "Skills & Technologies",
   "categories": [
     {
-      "category": "Programming Languages",
-      "icon": "fas fa-code",
-      "color": "#FF6B6B",
-      "skills": [
-        "Java",
-        "Python",
-        "C++",
-        "C#",
-        "JavaScript",
-        "TypeScript",
-        "SQL"
-      ]
-    },
-    {
       "category": "AI & GenAI",
       "icon": "fas fa-robot",
       "color": "#B19CD9",
@@ -31,6 +17,20 @@
         "LangGraph",
         "Prompt Engineering",
         "GitHub Copilot"
+      ]
+    },
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "color": "#FF6B6B",
+      "skills": [
+        "Java",
+        "Python",
+        "C++",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "SQL"
       ]
     },
     {

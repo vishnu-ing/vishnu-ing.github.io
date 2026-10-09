@@ -1,20 +1,20 @@
 {
   "_instructions": "Site-wide configuration and meta tags.",
-  "title": "VISHNU KUMAR | Full Stack Software Engineer · AI/GenAI",
-  "description": "Vishnu Kumar - Full Stack Software Engineer with 6+ years building web, mobile and microservice applications with React, Angular, Node.js, Java/Spring Boot and AWS, and integrating GenAI features into real products.",
-  "keywords": "Full Stack Software Engineer, GenAI, LLM, AI-Powered Applications, Microservices, AWS, Portfolio, VISHNU KUMAR",
+  "title": "VISHNU KUMAR | AI Software Engineer",
+  "description": "Vishnu Kumar - AI Software Engineer building LLM-powered products (agents, RAG, tool calling) on 6+ years of full-stack engineering with React, Node.js, Java/Spring Boot and AWS.",
+  "keywords": "AI Software Engineer, AI Engineer, LLM, Generative AI, RAG, AI Agents, LangChain, LangGraph, Full Stack, React, Node.js, Spring Boot, AWS, VISHNU KUMAR",
   "author": "VISHNU KUMAR",
   "siteName": "VISHNU KUMAR",
-  "siteTitle": "VISHNU KUMAR | Full Stack Software Engineer · AI/GenAI",
+  "siteTitle": "VISHNU KUMAR | AI Software Engineer",
   "meta": {
-    "title": "VISHNU KUMAR | Full Stack Software Engineer · AI/GenAI",
-    "description": "Vishnu Kumar - Full Stack Software Engineer with 6+ years building web, mobile and microservice applications with React, Angular, Node.js, Java/Spring Boot and AWS, and integrating GenAI features into real products.",
+    "title": "VISHNU KUMAR | AI Software Engineer",
+    "description": "Vishnu Kumar - AI Software Engineer building LLM-powered products (agents, RAG, tool calling) on 6+ years of full-stack engineering with React, Node.js, Java/Spring Boot and AWS.",
     "author": "VISHNU KUMAR",
-    "keywords": "Full Stack Software Engineer, GenAI, LLM, AI-Powered Applications, Microservices, AWS, Portfolio, VISHNU KUMAR"
+    "keywords": "AI Software Engineer, AI Engineer, LLM, Generative AI, RAG, AI Agents, LangChain, LangGraph, Full Stack, React, Node.js, Spring Boot, AWS, VISHNU KUMAR"
   },
   "branding": {
     "name": "VISHNU KUMAR",
-    "tagline": "Full Stack Software Engineer · AI-Powered Applications",
+    "tagline": "AI Software Engineer · Full Stack",
     "logo": "/logo.png"
   },
   "settings": {
