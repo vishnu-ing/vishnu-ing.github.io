@@ -102,7 +102,12 @@ async function loadHero() {
         document.getElementById('hero-greeting').textContent = data.greeting;
         document.getElementById('hero-name').innerHTML = `${data.name.split(' ')[0]} <span>${data.name.split(' ').slice(1).join(' ')}</span>`;
         document.getElementById('hero-title').textContent = data.title;
-        document.getElementById('hero-tagline').textContent = data.tagline;
+        const taglineElement = document.getElementById('hero-tagline');
+        if (data.tagline && data.tagline !== data.title) {
+            taglineElement.textContent = data.tagline;
+        } else {
+            taglineElement.remove();
+        }
         document.getElementById('hero-summary').textContent = data.summary;
 
         // Render highlights
