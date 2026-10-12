@@ -3,62 +3,6 @@
   "sectionTitle": "Featured Work",
   "projects": [
     {
-      "title": "Agentic AI",
-      "description": "Built an AI-powered Q&A agent using Python, Streamlit, Llama 3.2, DuckDuckGo API, ReActAgent and FunctionTool to perform real-time math operations and web searches through tool-enabled agent workflows.",
-      "longDescription": "Built an AI-powered Q&A agent using Python, Streamlit, Llama 3.2, DuckDuckGo API, ReActAgent and FunctionTool to perform real-time math operations and web searches through tool-enabled agent workflows.",
-      "category": "AI / GenAI",
-      "technologies": [
-        "Python",
-        "Streamlit",
-        "Llama 3.2",
-        "DuckDuckGo API",
-        "ReActAgent",
-        "FunctionTool"
-      ],
-      "icon": "fas fa-globe",
-      "color": "#FF6B6B",
-      "image": "assets/images/projects/agentic-ai.svg",
-      "featured": true,
-      "github": "",
-      "demo": "",
-      "links": {
-        "github": "",
-        "demo": "",
-        "live": ""
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
-      }
-    },
-    {
-      "title": "Retail Business Data Warehouse",
-      "description": "Built an end-to-end retail data warehouse integrating 3+ years of transaction data through Apache Hop and SQL and delivered Power BI dashboards that reduced weekly sales reporting time from 4 hours to under 30 minutes.",
-      "longDescription": "Built an end-to-end retail data warehouse integrating 3+ years of transaction data through Apache Hop and SQL and delivered Power BI dashboards that reduced weekly sales reporting time from 4 hours to under 30 minutes.",
-      "category": "Software Development",
-      "technologies": [
-        "Oracle",
-        "Apache Hop",
-        "SQL",
-        "Power BI"
-      ],
-      "icon": "fas fa-project-diagram",
-      "color": "#4ECDC4",
-      "image": "assets/images/projects/retail-data-warehouse.svg",
-      "featured": false,
-      "github": "",
-      "demo": "",
-      "links": {
-        "github": "",
-        "demo": "",
-        "live": ""
-      },
-      "stats": {
-        "status": "Completed",
-        "year": "2026"
-      }
-    },
-    {
       "title": "backend",
       "description": "This repository contains the backend code of Beacon Fire Group Project",
       "longDescription": "This repository contains the backend code of Beacon Fire Group Project",
